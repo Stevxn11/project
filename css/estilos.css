@@ -1,0 +1,45 @@
+main > .container{
+    padding: 60px 0;
+}
+
+.form-login{
+    max-width: 350px ;
+}
+.card {
+    border: none;
+    transition: all 0.3s ease; 
+}
+  .card:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    transform: scale(1.05);
+    border: 1px solid #a0aab4; 
+    background-color: #f8f9fa; 
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: contain;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #dc3545;
+  }
+
+  footer {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
